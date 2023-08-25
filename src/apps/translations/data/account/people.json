@@ -1,0 +1,10 @@
+{
+  "title": "People",
+  "name": "people",
+  "translations": {
+    "user": {
+      "en": "User",
+      "ar": "المستخدم"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Common",
+  "name": "common",
+  "keywords": ["common", "home", "add", "shared"],
+  "translations": {
+    "home": {
+      "en": "Home",
+      "de": "Zuhause"
+    },
+    "contactUs": {
+      "en": "Contact Us"
+    }
+  }
+}

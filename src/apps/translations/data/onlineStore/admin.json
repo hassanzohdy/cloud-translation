@@ -1,0 +1,10 @@
+{
+  "name": "admin",
+  "title": "Admin",
+  "translations": {
+    "dashboard": {
+      "en": "Dashboard",
+      "ar": "لوحة التحكم"
+    }
+  }
+}
